@@ -1,4 +1,4 @@
-# manga-verse
+
 # Mangaverse: Your Gateway to the World of Manga
 Dive into the captivating world of manga with Mangaverse.
 
